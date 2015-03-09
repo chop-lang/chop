@@ -2,7 +2,7 @@
 
 ### Overview
 
-* Fork Chop
+* Fork chop
 * Prefix your commits like so (you may join tags as in `(refactor|doc) Change documentation conventions`):
   * (nocompile) Add partially-implemented code
   * (feature) Add a new feature
